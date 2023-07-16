@@ -1,0 +1,1 @@
+This is the famous 'Stone Paper Scissor' game(CUI). You can play this with the computer as much as you want. The game consist of three rounds, in order to win you have to win atleast two rounds.
